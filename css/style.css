@@ -542,5 +542,6 @@ ul {
     .container{
         margin: 0 25px;
         width: 100%;
+        color:red;
     }
 }
