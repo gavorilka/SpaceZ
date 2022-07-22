@@ -45,10 +45,7 @@ body{
 /* start header */
 
 .site-header .container{
-    /* background-image: url("../img/moon-rocket.png");
-    background-repeat: no-repeat;
-    background-position: 100% 130px; */
-    
+
     padding-top: 54px;
     min-height: 400px;     
     padding-bottom: 180px;
